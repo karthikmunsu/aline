@@ -1,2 +1,1 @@
-# aline
-aline consulting tasks
+# onedish grocery/ supermarket demo application.
